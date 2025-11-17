@@ -16,7 +16,6 @@ env/
 .streamlit/secrets.toml
 
 # Data and caches
-*.csv
 *.sqlite
 .DS_Store
 
