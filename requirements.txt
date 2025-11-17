@@ -1,0 +1,7 @@
+streamlit>=1.10,<2
+pandas
+numpy
+altair<6
+vega_datasets
+seaborn
+matplotlib

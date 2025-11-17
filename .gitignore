@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Data and caches
+*.csv
+*.sqlite
+.DS_Store
+
+# Byte-compiled / logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
