@@ -1,6 +1,6 @@
 # Football Dashboard App
 
-A Python-based football analytics dashboard for exploring the 2021–2022 player statistics dataset. The project follows a practical data engineering workflow: ingest raw CSV data, clean and normalize it, compute analyst-friendly KPIs, and expose interactive insights through a Streamlit app.
+A Python-based football analytics dashboard for exploring the 2021–2022 player statistics dataset. The project follows these steps: ingest raw CSV data, clean and normalize it, compute analyst-friendly KPIs, and expose interactive insights through a Streamlit app.
 
 ## What it does
 - Loads football player statistics from CSV
